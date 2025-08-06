@@ -1,7 +1,7 @@
 # 2.11BSD-ingres
 2.11BSD image with ingres kernel support compiled in and ingres compiled
 
-# Credits:
+# Credits
 
 Starting point is Chase Covello and Jeff Thiekle's 2.11BSD image disk that contains patch level 482, the kernel source code and the ingres source code:
 
