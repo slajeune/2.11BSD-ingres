@@ -15,8 +15,18 @@ https://groups.google.com/g/pidp-11/c/xQByLmGWARo
 
 Included fixes:
 
-- create an INGRES config for the kernel to include INGRES YES
+- created an INGRES config for the kernel to include INGRES YES
 - kernel Makefile overlay modification so that kernel compiles without errors
-- changes to the ingres ovqp to change const into const_ so that ingres compiles
+- modifications to the ingres ovqp source code to change const into const_ so that ingres compiles
 - password for the ingres user set to Ingres
 - added tape device (TQ0) to the boot.ini for easy transfer of files go here to find how to use and convert .tar to a format usable by BSD: https://github.com/rricharz/pidp11-2.11bsd
+
+# Download
+
+The disk image is in the release section, here is a direct link to the image: https://github.com/slajeune/2.11BSD-ingres/releases/download/v1.0.0/2.11BSD_rq.dsk.xz
+
+# Ingres on pip-11
+
+This is a good starting point for ingres on pip-11
+
+https://pdp2011.sytse.net/wordpress/ingres/
