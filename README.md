@@ -25,8 +25,8 @@ https://groups.google.com/g/pidp-11/c/xQByLmGWARo
 
 The disk image is in the release section, here is a direct link to the image: https://github.com/slajeune/2.11BSD-ingres/releases/download/v1.0.0/2.11BSD_rq.dsk.xz
 
-# Ingres on pip-11
+# Ingres on pdp-11
 
-This is a good starting point for ingres on pip-11
+This is a good starting point for ingres on pdp-11
 
 https://pdp2011.sytse.net/wordpress/ingres/
