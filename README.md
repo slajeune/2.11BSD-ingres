@@ -19,3 +19,4 @@ Included fixes:
 - kernel Makefile overlay modification so that kernel compiles without errors
 - changes to the ingres ovqp to change const into const_ so that ingres compiles
 - password for the ingres user set to Ingres
+- added tape device (TQ0) to the boot.ini for easy transfer of files go here to find how to use and convert .tar to a format usable by BSD: https://github.com/rricharz/pidp11-2.11bsd
