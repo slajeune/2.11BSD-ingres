@@ -13,7 +13,7 @@ The code fix for compiling the ingres database successfully is from Heinz-Bernd 
 
 https://groups.google.com/g/pidp-11/c/xQByLmGWARo
 
-Included fixes:
+# Included fixes
 
 - created an INGRES config for the kernel to include INGRES YES
 - kernel Makefile overlay modification so that kernel compiles without errors
